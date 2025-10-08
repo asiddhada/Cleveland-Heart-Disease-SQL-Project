@@ -42,7 +42,7 @@ Contributing:
 Feel free to submit pull requests adding new queries, converting scripts to stored procedures, or adapting the project to other SQL platforms.
 
 
-📬 Contact
+ Contact
 -Anoushka Siddhada
 - LinkedIn: https://www.linkedin.com/in/asiddhada/
 - Email: asiddhada123@gmail.com
