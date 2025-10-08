@@ -1,3 +1,6 @@
+
+Cleveland Heart Disease Project
+
 Overview
 This repository demonstrates how to explore the UCI Cleveland Heart Disease dataset using plain SQL. The goal is to practice querying, generate reproducible health insights, and provide a template for other analysts.
 
